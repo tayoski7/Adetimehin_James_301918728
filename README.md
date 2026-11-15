@@ -2,8 +2,6 @@
 
 James Adetimehin · Student ID 301918728
 
-The portfolio uses fictional records for TrustHand: Local Artisan Marketplace with Escrow.
-
 - [Portfolio 1](portfolio-1-database-design/)
 - [Portfolio 2](portfolio-2-query-optimisation/)
 - [Portfolio 3](portfolio-3-transactions-concurrency/)
